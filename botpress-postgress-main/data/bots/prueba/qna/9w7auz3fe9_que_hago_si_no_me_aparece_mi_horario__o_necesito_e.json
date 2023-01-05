@@ -1,0 +1,36 @@
+{
+  "id": "9w7auz3fe9_que_hago_si_no_me_aparece_mi_horario__o_necesito_e",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera\n\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera.\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera  \n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera \n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Puedes comunicarte al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, nombre completo y carrera\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, el nombre completo y carrera\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx",
+        "Comunícate al Departamento de Servicios Estudiantiles y Gestión Escolar de tu campus, adjuntando tus siguientes datos: matrícula, el nombre completo y carrera\n- Campus Mexicali: escolarmxl@uabc.edu.mx\n- Campus Tijuana: escolarestij@uabc.edu.mx\n- Campus Ensenada: escolarens@uabc.edu.mx "
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si no me aparece mi horario, o necesito entregar documentos?\n\n\n\n",
+        "que hago si no aparece mi horario?\n\n\n \n\n\n",
+        "que puedo hacer si no sale mi horario? \n\n\n\n\n",
+        "que podría hacer si no me sale mi horario?\n\n\n\n\n",
+        "que puedo hacer si necesito entregar documentos?\n\n\n\n\n",
+        "que podría hacer si necesito entregar documentos?\n\n\n\n\n",
+        "que hago si necesito entregar documentos?  \n\n\n\n\n",
+        "que podría hace si no me aparece mi horario?\n\n\n\n\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

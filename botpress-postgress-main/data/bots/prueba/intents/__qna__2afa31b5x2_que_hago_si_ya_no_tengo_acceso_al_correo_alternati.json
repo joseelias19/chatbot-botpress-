@@ -1,0 +1,19 @@
+{
+  "name": "__qna__2afa31b5x2_que_hago_si_ya_no_tengo_acceso_al_correo_alternati",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "que hago si ya no tengo acceso al correo alternativo ?",
+      "que hago si no tengo acceso al correo alternativo?",
+      "que hago si no puedo acceder al correo alternativo?",
+      "que puedo hacer si no tengo acceso al correo alternativo?",
+      "que hago si no puedo entrar al correo alternativo?",
+      "que puedo hacer si no puedo entrar al correo alternativo?",
+      "que puedo hacer si no puedo acceder al correo alternativo?",
+      "que podría hacer si ya no tengo acceso al correo alternativo?"
+    ]
+  },
+  "slots": []
+}

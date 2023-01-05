@@ -1,0 +1,28 @@
+{
+  "id": "ye8ohe4e6x_como_actualizo_mi_correo_alternativo",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "1) Si tienes acceso a tu Correo UABC: Puedes agregarlo como tu correo de recuperación en Gestionar tu cuenta de google > Seguridad > Métodos para verificar tu identidad > Correo electrónico de recuperación.\n\n2) Si no tienes acceso a tu Correo UABC: Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y registrarán tu correo de recuperación",
+        "1) Si tienes acceso a tu Correo UABC: Puedes agregarlo como tu correo de recuperación en Gestionar tu cuenta de google > Seguridad > Métodos para verificar tu identidad > Correo electrónico de recuperación\n\n2) Si no tienes acceso a tu Correo UABC: Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y registrarán tu correo de recuperación.",
+        "1)Si tienes acceso a tu Correo UABC: Puedes agregarlo como tu correo de recuperación en Gestionar tu cuenta de google > Seguridad > Métodos para verificar tu identidad > Correo electrónico de recuperación.\n\n2)Si no tienes acceso a tu Correo UABC: Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y registrarán tu correo de recuperación.",
+        "1) Si tienes acceso a tu Correo UABC: Puedes agregarlo como tu correo de recuperación en Gestionar tu cuenta de google > Seguridad > Métodos para verificar tu identidad > Correo electrónico de recuperación.\n\n2) Si no tienes acceso a tu Correo UABC: Puedes envíar un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y registrarán tu correo de recuperación."
+      ]
+    },
+    "questions": {
+      "en": [
+        "como actualizo mi correo alternativo?\n\n\n\n\n\n\n",
+        "como puedo actualizar mi correo alternativo?\n\n\n\n\n\n\n",
+        "como se puede actualizar mi correo alternativo?\n\n\n\n\n\n\n",
+        "como podría actualizar mi correo alternativo?\n\n\n\n\n\n\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

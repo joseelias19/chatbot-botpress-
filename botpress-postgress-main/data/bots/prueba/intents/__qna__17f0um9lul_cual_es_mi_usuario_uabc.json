@@ -1,0 +1,15 @@
+{
+  "name": "__qna__17f0um9lul_cual_es_mi_usuario_uabc",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "cual es mi usuario uabc?",
+      "cual es mi usuario de la uabc?",
+      "como le hago para saber mi usuario ?",
+      "como saber mi usuario de uabc?"
+    ]
+  },
+  "slots": []
+}

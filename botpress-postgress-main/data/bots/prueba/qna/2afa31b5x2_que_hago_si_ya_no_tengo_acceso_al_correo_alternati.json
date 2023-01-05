@@ -1,0 +1,35 @@
+{
+  "id": "2afa31b5x2_que_hago_si_ya_no_tengo_acceso_al_correo_alternati",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación.",
+        "Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial como (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación.",
+        "Envía un correo con tu nombre completo, la matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación.",
+        "Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación .",
+        "Envía un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación",
+        "Puedes enviar un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran tu correo de recuperación.\n\n",
+        "Puedes enviar un correo con tu nombre completo, matrícula o número de empleado, correo y una imagen de una identificación oficial (INE, Acta de nacimiento, etc) a dit.desarrollo.soporte@uabc.edu.mx y actualizaran el correo de recuperación."
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si ya no tengo acceso al correo alternativo ?\n\n",
+        "\nque hago si no tengo acceso al correo alternativo?\n",
+        "que hago si no puedo acceder al correo alternativo?\n\n",
+        "\n\nque puedo hacer si no tengo acceso al correo alternativo?",
+        "que hago si no puedo entrar al correo alternativo?\n\n",
+        "que puedo hacer si no puedo entrar al correo alternativo?\n\n\n\n",
+        "que puedo hacer si no puedo acceder al correo alternativo?\n\n",
+        "que podría hacer si ya no tengo acceso al correo alternativo?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

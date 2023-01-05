@@ -1,0 +1,23 @@
+[
+  {
+    "initialVersion": "12.18.2",
+    "targetVersion": "12.30.3",
+    "created_at": "2022-10-25T18:27:40.599Z",
+    "details": [
+      "[warn] \n                                           ========================================\n                                                     Migrations Required          \n                                                 Version 12.18.2 => 12.30.3       \n                                                          3 changes               \n                                           ========================================",
+      "[warn] Database Changes",
+      "[warn] - None",
+      "[warn] Config File Changes",
+      "[warn] - Adds video and audio content types to bot configs",
+      "[warn] - Adds file and location content types to bot configs",
+      "[warn] Changes to Content Files (*.json)",
+      "[warn] - Migrates the messaging clientId and clientToken from bot.config.json to srv_channels when the bot is imported",
+      "[info] \n                                           ========================================\n                                                    Executing 3 migrations         \n                                           ========================================",
+      "[info] - New types added successfully",
+      "[info] - New types added successfully",
+      "[warn] [prueba] No messaging config to migrate",
+      "[info] - Configurations updated successfully",
+      "[info] Migrations completed successfully! "
+    ]
+  }
+]

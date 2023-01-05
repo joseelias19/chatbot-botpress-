@@ -1,0 +1,34 @@
+{
+  "id": "2w9qlqunja_que_hago_si_tengo_algun_problema_con_blackboard",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte. De nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC.",
+        "Ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte,de nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC.",
+        "Ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte,de nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC",
+        "Ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte. De nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC",
+        "Ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte.De nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC.",
+        "Puedes ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte De nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC",
+        "Puedes ponte en contacto con los encargados, el Centro de Educación Abierta y a Distancia http://cead.mxl.uabc.mx/soporte De nuestra parte no tenemos acceso a Blackboard, sus usuarios y contraseñas son independientes de las cuentas y correos UABC. "
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si tengo algún problema con blackboard? \n\n",
+        "que hago si tengo problemas con blackboard?\n\n",
+        "que puedo hacer si tengo algún  problema con blackboard?\n\n",
+        "que podría hacer si tengo algún  problema con blackboard?\n\n",
+        "que se puede hacer si tengo problemas con blackboard?\n\n",
+        "que podría hacer si tengo problemas con blackboard?\n\n",
+        "que puedo hacer si tengo problemas con blackboard?\n\n\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

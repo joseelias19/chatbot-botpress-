@@ -1,0 +1,29 @@
+{
+  "id": "17f0um9lul_cual_es_mi_usuario_uabc",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario para recuperar tu usuario.",
+        "Ingresa tu matrícula o tu número de empleado en Olvidé mi usuario para recuperar tu usuario.",
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario para recuperar tu usuario",
+        "Ingresa tu matrícula o el número de empleado en Olvidé mi usuario para recuperar tu usuario.",
+        "Ingresa tu matrícula o el número de empleado en Olvidé mi usuario para recuperar tu usuario"
+      ]
+    },
+    "questions": {
+      "en": [
+        "cual es mi usuario uabc?\n",
+        "cual es mi usuario de la uabc?\n",
+        "como le hago para saber mi usuario ?\n",
+        "como saber mi usuario de uabc?\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

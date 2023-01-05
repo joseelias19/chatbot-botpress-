@@ -1,0 +1,15 @@
+{
+  "name": "__qna__fchxwg9mcb_como_te_llamas",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "dime tu nombre",
+      "cual es tu nombre ?",
+      "como te nombran?",
+      "c"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "__qna__rnzf5e2sfr_que_hago_si_dice_que_mi_usuario_o_contrase_a_son_i",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "que hago si dice que mi usuario o contraseña son incorrectos?",
+      "que hago si me dice que mi usuario o contraseña son incorrectos?",
+      "que puedo hacer si me dice que mi usuario o contraseña son incorrectos?",
+      "que hago cuando me dice que mi usuario o contraseña son incorrectos?"
+    ]
+  },
+  "slots": []
+}

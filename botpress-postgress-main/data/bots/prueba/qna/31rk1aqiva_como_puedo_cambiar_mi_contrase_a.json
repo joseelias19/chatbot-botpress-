@@ -1,0 +1,30 @@
+{
+  "id": "31rk1aqiva_como_puedo_cambiar_mi_contrase_a",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Inicia sesión en Iniciar Sesión y podrás cambiar tu contraseña.",
+        "Inicia sesión en Iniciar Sesión y luego podrás cambiar tu contraseña.",
+        "Inicia sesión en Iniciar Sesión y podrás cambiar la contraseña.",
+        "Inicia sesión en Iniciar Sesión y podrás cambiar tu contraseña",
+        "Inicia sesión en Iniciar Sesión y podrás cambiar tu contraseña "
+      ]
+    },
+    "questions": {
+      "en": [
+        "como puedo cambiar mi contraseña ?",
+        "como podría cambiar mi contraseña?",
+        "como cambio la contraseña ?",
+        "como cambio mi contraseña?",
+        "c"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "builtin_text-16x2-f",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hola :D ! "
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T20:59:21.572Z",
+    "modifiedOn": "2022-09-07T22:57:10.120Z"
+  },
+  {
+    "id": "builtin_text-IMrhO1",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hola !!\nYo soy \"Bot-Activacion, estoy para ayudarte a resolver tus dudas :D "
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T21:00:29.205Z",
+    "modifiedOn": "2022-09-09T00:00:25.097Z"
+  },
+  {
+    "id": "builtin_text--fhcHU",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "perro\n"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T22:02:24.110Z",
+    "modifiedOn": "2022-09-07T22:03:17.653Z"
+  },
+  {
+    "id": "builtin_text-JGsqLh",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "En que te puedo ayudar? :D"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T22:59:49.473Z",
+    "modifiedOn": "2022-09-07T22:59:49.473Z"
+  },
+  {
+    "id": "builtin_text-xt9qRg",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Cual es tu nombre?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T23:00:20.742Z",
+    "modifiedOn": "2022-09-07T23:00:20.742Z"
+  },
+  {
+    "id": "builtin_text-AYen8Z",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Mucho gusto {{user.name}} ! "
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T23:02:46.993Z",
+    "modifiedOn": "2022-09-07T23:02:46.993Z"
+  },
+  {
+    "id": "builtin_text-ytXcnl",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Mucho gusto {{user.name}} !!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T23:16:35.845Z",
+    "modifiedOn": "2022-09-07T23:16:35.845Z"
+  },
+  {
+    "id": "builtin_text-msgQwg",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "En que te puedo apoyar {{user.name}} ?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-09-07T23:17:53.885Z",
+    "modifiedOn": "2022-09-07T23:17:53.885Z"
+  }
+]

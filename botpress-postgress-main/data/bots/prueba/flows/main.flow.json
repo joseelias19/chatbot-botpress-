@@ -1,0 +1,74 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "Bienvenido",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "Bienvenido",
+      "next": [
+        {
+          "condition": "session.saludar ===\"true\"",
+          "node": ""
+        },
+        {
+          "condition": "true",
+          "node": "saludo1"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null
+    },
+    {
+      "id": "3bc738b72f",
+      "name": "saludo1",
+      "next": [
+        {
+          "condition": "true",
+          "node": "PASO1"
+        }
+      ],
+      "onEnter": [
+        "builtin/setVariable {\"type\":\"session\",\"name\":\"saludar\",\"value\":\"true\"}",
+        "say #!builtin_text-IMrhO1"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1d9b4a3eec",
+      "name": "fin_del_chat",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "8906e589e8",
+      "name": "PASO1",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-xt9qRg"
+      ],
+      "onReceive": [
+        "builtin/setVariable {\"type\":\"user\",\"name\":\"name\",\"value\":\"{{event.payload.text}}\"}",
+        "say #!builtin_text-ytXcnl",
+        "say #!builtin_text-msgQwg"
+      ],
+      "type": "standard"
+    }
+  ]
+}

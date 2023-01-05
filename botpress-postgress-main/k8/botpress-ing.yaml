@@ -1,0 +1,21 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: botpress
+  namespace: default
+spec:
+  ingressClassName: nginx
+  tls:
+    - hosts:
+        - demo.localdev.me
+  rules:
+  - host: demo.localdev.me
+    http:
+      paths:
+      - backend:
+          service:
+            name: botpress-service
+            port:
+              number: 3000
+        path: /botpress
+        pathType: Prefix

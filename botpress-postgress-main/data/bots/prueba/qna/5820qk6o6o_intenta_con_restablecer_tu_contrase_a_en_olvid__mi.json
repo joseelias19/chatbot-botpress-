@@ -1,0 +1,36 @@
+{
+  "id": "5820qk6o6o_intenta_con_restablecer_tu_contrase_a_en_olvid__mi",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Intenta con restablecer tu contraseña en Olvidé mi contraseña.",
+        "Intenta con restablecer tu contraseña en Olvidé mi contraseña",
+        "Puedes Intentar con restablecer tu contraseña en Olvidé mi contraseña.",
+        "Intenta restablecer tu contraseña en Olvidé mi contraseña.",
+        "Intenta con restablecer la contraseña en Olvidé mi contraseña.",
+        "Intenta con restablecer la contraseña en Olvidé mi contraseña. ",
+        "Intenta con restablecer la contraseña en Olvidé mi contraseña  ",
+        "Intenta con restablecer la contraseña en Olvidé mi contraseña    "
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si no puedo entrar a mi correo?",
+        "que hago si no tengo acceso a mi correo?",
+        "que hago si no puedo acceder a mi correo?  \n",
+        "por que no puedo entrar a mi correo?",
+        "que hacer si no puedo entrar a mi correo?",
+        "que hago si no tengo acceso al correo uabc?",
+        "que hago si no tengo acceso al correo?",
+        "que hago si no m"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

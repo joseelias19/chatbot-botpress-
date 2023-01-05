@@ -1,0 +1,15 @@
+{
+  "name": "identidad",
+  "utterances": {
+    "en": [
+      "identidad",
+      "como te llamas?",
+      "cual es tu nombre?",
+      "dame tu nombre"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

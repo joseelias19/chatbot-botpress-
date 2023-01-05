@@ -1,0 +1,16 @@
+{
+  "name": "__qna__bo8v4wnu9q_que_hago_si_no_tengo_correo_alternativo_registrado",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "que hago si no tengo correo alternativo registrado?",
+      "que hago si no tengo correo alternativo?",
+      "que hago si no tengo un correo alternativo registrado?",
+      "que hago si no tengo un correo alternativo?",
+      "que hago si no tengo registrado un correo alternativo?"
+    ]
+  },
+  "slots": []
+}

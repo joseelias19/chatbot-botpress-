@@ -1,0 +1,36 @@
+{
+  "id": "cp19s7gz8q_que_hago_si_olvide_mi_contrase_a",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Puedes restablecer tu contraseña en Olvidé mi contraseña.",
+        "Puedes restablecer la contraseña en Olvidé mi contraseña.",
+        "Puedes restablecer tu contraseña en Olvidé mi contraseña",
+        "Se puede restablecer tu contraseña en Olvidé mi contraseña.",
+        "Se puede restablecer tu contraseña en Olvidé mi contraseña. ",
+        "Se puede restablecer tu contraseña en Olvidé mi contraseña.  ",
+        "Se puede restablecer tu contraseña en Olvidé mi contraseña.   ",
+        "Se puede restablecer tu contraseña en Olvidé mi contraseña.    "
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si olvide mi contraseña?",
+        "olvide mi contraseña que hago?",
+        "que hago si no me acuerdo de mi contraseña?",
+        "que puedo hacer si no recuerdo mi contraseña?",
+        "como puedo saber mi contraseña?",
+        "que puedo hacer para saber mi contraseña?",
+        "como le hago para saber mi contraseña?",
+        "n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

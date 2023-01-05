@@ -1,0 +1,28 @@
+{
+  "id": "rnzf5e2sfr_que_hago_si_dice_que_mi_usuario_o_contrase_a_son_i",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "1) Asegura que tu usuario y contraseña sean correctos.\n\n2) Si tu segundo apellido contiene ñ, acento o es compuesto, puede que haya un error con tu registro, comunícate con soporte técnico enviando tu nombre completo y matrícula.",
+        "1)Asegura que tu usuario y contraseña sean correctos.\n\n2)Si tu segundo apellido contiene ñ, acento o es compuesto, puede que haya un error con tu registro, comunícate con soporte técnico enviando tu nombre completo y matrícula.",
+        "1)Asegura que tu usuario y contraseña sean correctos\n\n2)Si tu segundo apellido contiene ñ, acento o es compuesto, puede que haya un error con tu registro, comunícate con soporte técnico enviando tu nombre completo y matrícula.",
+        "1)Asegura que tu usuario y contraseña sean correctos.\n\n2)Si tu segundo apellido contiene ñ, acento o es compuesto, puede que haya un error con tu registro, comunícate con soporte técnico enviando tu nombre completo y matrícula"
+      ]
+    },
+    "questions": {
+      "en": [
+        "que hago si dice que mi usuario o contraseña son incorrectos?\n\n\n",
+        "que hago si me dice que mi usuario o contraseña son incorrectos?\n\n\n",
+        "que puedo hacer si me dice que mi usuario o contraseña son incorrectos?\n\n\n",
+        "\nque hago cuando me dice que mi usuario o contraseña son incorrectos?\n\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

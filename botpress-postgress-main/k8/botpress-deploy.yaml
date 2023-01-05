@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: botpress-deployment-prueba
+  namespace: default
+  labels:
+    app: botpress
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: botpress
+  template:
+    metadata:
+      labels:
+        app: botpress
+    spec:
+      initContainers:
+      - name: wait-for-postgresdb-connection
+        image: postgres:9.6.5
+        ports:
+          - containerPort: 5432
+        command:  ["sh", "-c", 
+        "until pg_isready -h postgres-service.default -p 5432; 
+          do echo waiting for database; sleep 2; done;"]                      
+      containers:
+      - name: botpress
+        image: botpress-cicd
+        imagePullPolicy: Never
+        ports:
+          - containerPort: 3000
+        env:
+        - name: BPFS_STORAGE
+          value: "database"        
+        - name: AUTO_MIGRATE
+          value: "true"                  
+        - name: CI_EMAIL
+          value: "prueba@gmail.com"                  
+        - name: CI_PASSWORD
+          value: "hola1234"                  
+        - name: DATABASE_URL
+          value: "postgres://admin:mysecretpassword@postgres-service.default:5432/botpress"       
+        - name: EXTERNAL_URL
+          value: "https://demo.localdev.me/botpress"                          

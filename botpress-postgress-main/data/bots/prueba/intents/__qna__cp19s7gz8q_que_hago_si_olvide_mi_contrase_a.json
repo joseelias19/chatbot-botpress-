@@ -1,0 +1,19 @@
+{
+  "name": "__qna__cp19s7gz8q_que_hago_si_olvide_mi_contrase_a",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "que hago si olvide mi contraseña?",
+      "olvide mi contraseña que hago?",
+      "que hago si no me acuerdo de mi contraseña?",
+      "que puedo hacer si no recuerdo mi contraseña?",
+      "como puedo saber mi contraseña?",
+      "que puedo hacer para saber mi contraseña?",
+      "como le hago para saber mi contraseña?",
+      "n"
+    ]
+  },
+  "slots": []
+}

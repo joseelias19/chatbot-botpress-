@@ -1,0 +1,28 @@
+{
+  "id": "oyuawp89ey_para_que_me_sirve_el_correo_uabc",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Tu correo UABC te da acceso a las herramientas y servicios de G Suite de Google así como acceso a los sistemas de UABC.\n",
+        "El correo UABC  te da acceso a las herramientas y servicios de G Suite de Google así como acceso a los sistemas de UABC.\n",
+        "Tu correo UABC te permite acceso a las herramientas y servicios de G Suite de Google así como acceso a los sistemas de UABC.\n\n",
+        "Tu correo UABC te permite acceso a las herramientas y servicios de G Suite de Google así como acceso a los sistemas de UABC.  \n"
+      ]
+    },
+    "questions": {
+      "en": [
+        "para que me sirve el correo uabc?    \n\n",
+        "de que me sirve el correo uabc?\n\n",
+        "que es el correo uabc ?\n\n\n",
+        "para que es el correo uabc?\n\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

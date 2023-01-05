@@ -1,0 +1,28 @@
+{
+  "id": "fchxwg9mcb_como_te_llamas",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "me llamo Bot-Test :D! ,en que puedo ayudarte?",
+        "mi nombre es Bot-Test , en que puedo ayudarte?",
+        "mi nombre es Bot-Test ,en que puedo ayudarte?",
+        "mi nombre es Bot-Test ,en que puedo ayudarte?  "
+      ]
+    },
+    "questions": {
+      "en": [
+        "dime tu nombre",
+        "cual es tu nombre ?",
+        "como te nombran?",
+        "c"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

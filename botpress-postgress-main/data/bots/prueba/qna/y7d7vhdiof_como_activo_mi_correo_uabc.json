@@ -1,0 +1,30 @@
+{
+  "id": "y7d7vhdiof_como_activo_mi_correo_uabc",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Ve a https://activacion.uabc.mx/login, inicia sesión, y sigue los pasos.",
+        "Ve a link Activación UABC, inicia sesión, y sigue los pasos.",
+        "Ve a link de Activación UABC, inicia sesión, y sigue los pasos.",
+        "Ve a link de Activación UABC, inicia sesión y sigue los pasos.",
+        "Ve a link de Activación UABC, inicia sesión y sigue los pasos"
+      ]
+    },
+    "questions": {
+      "en": [
+        "Como activo mi correo uabc?\n",
+        "como puedo activar mi correo uabc?",
+        "como se activa mi correo uabc?",
+        "como se puede activar mi correo uabc?",
+        "como se puede activar mi correo?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

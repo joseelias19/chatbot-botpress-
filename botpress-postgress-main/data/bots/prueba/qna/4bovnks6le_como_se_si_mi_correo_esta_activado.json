@@ -1,0 +1,34 @@
+{
+  "id": "4bovnks6le_como_se_si_mi_correo_esta_activado",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario.",
+        "Ingresa la matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario.",
+        "Ingresa tu matrícula o número empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario.",
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario",
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario   ",
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario .",
+        "Ingresa tu matrícula o número de empleado en Olvidé mi usuario y si se encuentra activo obtendrás tu usuario.  "
+      ]
+    },
+    "questions": {
+      "en": [
+        "como se si mi correo esta activado ?\n",
+        "como se si mi correo esta activo?\n",
+        "como veo si mi correo esta activado?\n",
+        "Donde veo si mi correo esta activo?\n",
+        "como puedo saber si mi correo esta activo?\n",
+        "como podría saber si mi correo se encuentra activado?\n",
+        "como puedo saber si mi correo se encuentra activo?\n"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

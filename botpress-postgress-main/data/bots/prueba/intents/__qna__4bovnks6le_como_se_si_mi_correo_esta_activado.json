@@ -1,0 +1,18 @@
+{
+  "name": "__qna__4bovnks6le_como_se_si_mi_correo_esta_activado",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "como se si mi correo esta activado ?",
+      "como se si mi correo esta activo?",
+      "como veo si mi correo esta activado?",
+      "Donde veo si mi correo esta activo?",
+      "como puedo saber si mi correo esta activo?",
+      "como podría saber si mi correo se encuentra activado?",
+      "como puedo saber si mi correo se encuentra activo?"
+    ]
+  },
+  "slots": []
+}

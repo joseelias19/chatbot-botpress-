@@ -1,0 +1,19 @@
+p{
+font-family: cursive;
+color: red;
+}
+h1{
+text-align: center;
+color: #5e9ca0;
+text-decoration: underline;
+}
+img{
+float: none;
+}
+span{
+text-align: center;
+}
+body{
+	background-image: "img/2.jpg";
+
+}
